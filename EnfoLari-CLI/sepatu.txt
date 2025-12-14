@@ -1,0 +1,4 @@
+1,Nah Iki Jor,15000,42,7
+2,Adinda Cantik,13000,43,5
+3,Ortu Sek,7000,39,17
+4,Crocodilo B,27000,41,6
