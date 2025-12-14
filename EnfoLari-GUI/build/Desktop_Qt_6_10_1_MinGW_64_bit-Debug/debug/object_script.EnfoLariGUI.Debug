@@ -1,0 +1,17 @@
+debug/main.o
+debug/mainwindow.o
+debug/logindialog.o
+debug/adminwindow.o
+debug/penyewawindow.o
+debug/sepatudialog.o
+debug/rentaldialog.o
+debug/admin.o
+debug/penyewa.o
+debug/sepatu.o
+debug/penyewaan.o
+debug/moc_mainwindow.o
+debug/moc_logindialog.o
+debug/moc_adminwindow.o
+debug/moc_penyewawindow.o
+debug/moc_sepatudialog.o
+debug/moc_rentaldialog.o

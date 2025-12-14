@@ -1,0 +1,17 @@
+release/main.o
+release/mainwindow.o
+release/logindialog.o
+release/adminwindow.o
+release/penyewawindow.o
+release/sepatudialog.o
+release/rentaldialog.o
+release/admin.o
+release/penyewa.o
+release/sepatu.o
+release/penyewaan.o
+release/moc_mainwindow.o
+release/moc_logindialog.o
+release/moc_adminwindow.o
+release/moc_penyewawindow.o
+release/moc_sepatudialog.o
+release/moc_rentaldialog.o
